@@ -113,4 +113,15 @@ MacBook-Air:Story miao$ git push -u origin master
 
 
 
-
+add .gitignore
+  
+MacBook-Air:ICCPRA miao$ git rm --cached -r .
+remove all the files in the staging area.
+  
+  MacBook-Air:ICCPRA miao$ touch .gitignore
+  MacBook-Air:ICCPRA miao$ open .gitignore
+  MacBook-Air:ICCPRA miao$ git init
+  then commit and push
+  
+  
+  
